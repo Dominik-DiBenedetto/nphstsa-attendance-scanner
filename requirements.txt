@@ -1,0 +1,3 @@
+opencv-python==4.10.0
+pyzbar==0.1.9
+playsound==1.3.0
